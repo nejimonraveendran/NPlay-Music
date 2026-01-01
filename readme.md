@@ -75,4 +75,4 @@ NPlay supports integration with online streaming services via Music Player Daemo
 Qobuz is a high-quality music streaming service that offers streaming at CD quality and above.  NPlay supports integration with via Music Player Daemon (MPD) and UpMpdCli. The install script automatically installs MPD and UpMpdCli if they are not already present on your system. For detailed setup instructions, please refer to the [Qobuz Integration Documentation](qobuz-setup.md).
 
 ## License
-You can use this software free of charge. For licensing details - see the [LICENSE](LICENSE.txt) file.  This is an early release version of NPlay.  Please report any issues or feature requests via the 
+You can use this software free of charge. For licensing details - see the [LICENSE](LICENSE.txt) file.  This is an early release version of NPlay, so please expect bugs and incomplete features.  Please report any issues via the Issues section of this repository.
