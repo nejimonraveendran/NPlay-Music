@@ -61,7 +61,7 @@ Screenshot of major components of NPlay web and desktop interface:
 ![NPlay Web Interface](images/nplay-screenshot.jpg)
 
 ## Demo
-![Video Demo](https://youtube.com/shorts/XAbcchQTw4E?si=jGZIQd6aU2GCwlza)
+[Video Demo](https://youtube.com/shorts/XAbcchQTw4E?si=jGZIQd6aU2GCwlza)
 
 ## Web Radio Streaming Integration
 NPlay supports integration with online streaming services via Music Player Daemon. The install script automatically installs MPD if it is not already present on your system. You can add your favorite web radios under the Radios option. Web radio URLs can be found at [radio-browser.info](https://www.radio-browser.info). 
