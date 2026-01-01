@@ -1,0 +1,48 @@
+Copyright (c) 2025 Nejimon Raveendran
+All rights reserved.
+
+This software ("the Software") is provided in binary form only and is
+intended for use on Linux-based systems, including Raspberry Pi devices.
+The Software is built on the .NET 10 platform.
+
+Permission is hereby granted to use the Software free of charge for
+personal or internal purposes, subject to the following conditions:
+
+1. No Source Code
+   The Software is distributed without source code. No right is granted
+   to access, obtain, or request the source code.
+
+2. No Reverse Engineering
+   You may not reverse engineer, decompile, disassemble, or otherwise
+   attempt to derive the source code, underlying ideas, algorithms,
+   or structure of the Software, except to the extent expressly
+   permitted by applicable law.
+
+3. Redistribution
+   Redistribution of the Software, in whole or in part, is permitted
+   only if:
+   a) This license text is included in full, and
+   b) Proper attribution is given to the original author.
+
+   Redistribution without attribution is strictly prohibited.
+
+4. Modification
+   Modification of the Software is not permitted.
+
+5. No Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NON-INFRINGEMENT.
+
+6. Limitation of Liability
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE
+   OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. No Obligation or Commitment
+   The author has no obligation to provide maintenance, updates,
+   support, or future versions of the Software.
+
+By using the Software, you agree to the terms of this license.
