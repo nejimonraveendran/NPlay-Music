@@ -47,5 +47,7 @@ sudo systemctl start upmpdcli
 sudo systemctl enable upmpdcli
 ```
 
-To stream Qobuz music to Rasperry Pi or the Linux computer, you can use any UPnP/DLNA controller app on your smartphone or tablet. MConnect app(Android/iOs) was found to work the best.  When you open the app, you should see the Qobuz music library as a UPnP/DLNA server and the NPlay device (MyPiQoBuz in this example) as a playback device. If you play a track from the Qobuz library, it should start playing on NPlay with visualizations and DSP effects applied.
+To stream Qobuz music to Rasperry Pi or the Linux computer, you can use any UPnP/DLNA controller app on your smartphone or tablet. MConnect app(Android/iOs) was found to work the best.  When you open the app, you should see the Qobuz music library as a UPnP/DLNA server and the NPlay device (MyPiQoBuz in this example) as a playback device. Go to NPlay web interface and turn stream play on from the mrnu. If you play a track from the Qobuz library, it should start playing on NPlay with visualizations and DSP effects applied.
+
+Note: If you hear garbled or distorted audio, try changing playback device in the settings.
 
