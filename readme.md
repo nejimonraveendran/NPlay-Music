@@ -61,13 +61,13 @@ Screenshot of major components of NPlay web and desktop interface:
 ![NPlay Web Interface](images/nplay-screenshot.jpg)
 
 ## Detailed Documentation
-For detailed documentation on configuration options, usage instructions, and advanced features, please refer to the [NPlay Documentation](docs/NPlay-Documentation.md).
+For detailed documentation on configuration options, usage instructions, and advanced features, please refer to the [NPlay Documentation](docs/NPlay-Documentation.md). - link will be updated soon.
 
 ## Web Radio Streaming Integration
 NPlay supports integration with online streaming services via Music Player Daemon. The install script automatically installs MPD if it is not already present on your system. You can add your favorite web radios under the Radios option. Web radio URLs can be found at [radio-browser.info](https://www.radio-browser.info). 
     
 ## Qobuz Streaming Integration
-Qobuz is a high-quality music streaming service that offers streaming at CD quality and above.  NPlay supports integration with via Music Player Daemon (MPD) and UpMpdCli. The install script automatically installs MPD and UpMpdCli if they are not already present on your system. For detailed setup instructions, please refer to the [Qobuz Integration Documentation](docs/Qobuz-Integration.md).
+Qobuz is a high-quality music streaming service that offers streaming at CD quality and above.  NPlay supports integration with via Music Player Daemon (MPD) and UpMpdCli. The install script automatically installs MPD and UpMpdCli if they are not already present on your system. For detailed setup instructions, please refer to the [Qobuz Integration Documentation](docs/Qobuz-Integration.md) - link will be updated soon.
 
 ## License
 You can use this software free of charge. For licensing details - see the [LICENSE](LICENSE) file
