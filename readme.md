@@ -4,7 +4,7 @@
 
 ![NPlay Logo](images/logo.png)
 
-NPlay is a remote-controllable lightweight music player and streamer designed for Raspberry Pi and Linux platforms with simplicity and ease of use in mind. It supports prominent audio formats and provides a user-friendly interface for managing and playing your music collection.  It also includes streaming capabilities, allowing you to play music from online sources such as webradios and Qobuz.
+NPlay is a remote-controllable lightweight music player and streamer designed for Raspberry Pi and Linux platforms with simplicity and ease of use in mind. It supports prominent audio formats and provides a user-friendly interface for managing and playing your music collection.  It also includes streaming capabilities, allowing you to play music from online sources such as web radios and Qobuz.
 
 ## Features
 - Supports audio formats WAV, FLAC, and MP3.
@@ -60,7 +60,12 @@ NPlay is a remote-controllable lightweight music player and streamer designed fo
 Screenshot of major components of NPlay web and desktop interface:
 ![NPlay Web Interface](images/nplay-screenshot.jpg)
 
+## Architecture
+NPlay supports both x86 and ARM architectures. It consists of a core backend written in .NET 10 (hence the name NPlay) that handles audio playback, metadata management, and DSP processing. The desktop UI container is written in pure C and GTK and communicates with the .NET backend via RESTful APIs and WebSockets. The frontend is implemented in Angular 20 that communicates with the backend through RESTful APIs and WebSockets. A high-level architecture diagram is shown below:
+![NPlay Architecture Diagram](images/nplay-architecture.jpg)
+
 ## Demo
+A short video demo of NPlay is available here:
 [Video Demo](https://youtube.com/shorts/XAbcchQTw4E?si=jGZIQd6aU2GCwlza)
 
 ## Web Radio Streaming Integration
@@ -70,4 +75,4 @@ NPlay supports integration with online streaming services via Music Player Daemo
 Qobuz is a high-quality music streaming service that offers streaming at CD quality and above.  NPlay supports integration with via Music Player Daemon (MPD) and UpMpdCli. The install script automatically installs MPD and UpMpdCli if they are not already present on your system. For detailed setup instructions, please refer to the [Qobuz Integration Documentation](qobuz-setup.md).
 
 ## License
-You can use this software free of charge. For licensing details - see the [LICENSE](LICENSE.txt) file
+You can use this software free of charge. For licensing details - see the [LICENSE](LICENSE.txt) file.  This is an early release version of NPlay.  Please report any issues or feature requests via the 
