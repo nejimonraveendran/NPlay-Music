@@ -1,0 +1,26 @@
+{
+  "PlaybackDevice": "default",
+  "ApplicationPort": 8000,
+  "SubwooferHardwareControlEnabled": false,
+  "DesktopUiSettings":{
+    "IsEnabled": true,
+    "IsFullScreen": true
+  },
+  "MusicLibraries": [
+  ],
+  "GeminiSettings":{
+    "GeminiEnabled": true,
+    "GeminiApiKey": "",
+    "GeminiTextModel": "gemini-2.5-flash",
+    "GeminiImageModel": "gemini-2.5-flash-image-preview" 
+  },
+  "MpdSettings": {
+    "Host": "127.0.0.1",
+    "Port": 6600,
+    "StreamBitsPerSample": 32,
+    "StreamChannels": 2,
+    "StreamSampleRate": 48000,
+    "MpdStreamPipe": "/tmp/nplaystream.pipe",
+    "UPnPDeviceFriendlyName": ""
+  }
+}

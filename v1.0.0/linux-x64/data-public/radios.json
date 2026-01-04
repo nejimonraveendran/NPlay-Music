@@ -1,0 +1,7 @@
+[
+  {
+    "Name": "680 News Toronto",
+    "StreamUrl": "https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8",
+    "Enabled": true
+  }
+]
