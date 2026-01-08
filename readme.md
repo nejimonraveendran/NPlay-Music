@@ -56,7 +56,20 @@ NPlay is a remote-controllable lightweight music player and streamer designed fo
     Screenshot for reference:
     ![NPlay installation screenshot](images/nplay-command-line.jpg)
 
-## Screenshots
+## Initial Setup
+- **Adding music collection:** Upon first run, you will see a blank listing page on the main screen.  To add music files to your library, click on the menu icon (3 bars at the top right corner), click "Edit Settings", which brings up a screen where you can add paths to your music directories. For example, if you have your music collection on a USB drive, add the path to that drive. After adding the paths, click on "Save". From the menu, click on "Rescan Library" button to start the scanning process. This process will scan your library and create a catalog of the tracks in cache file.  Note that, the scanning may take some time depending upon the size of your music collection (you can see a loading bar at the top of the screen until scanning is complete).  After scanning is complete, try refreshing the page and you should see your music files listed in the main screen.
+- **Audio Output Device:** By default, the system will use the default audio output device (named "default"). If you have multiple audio output devices (sound cards, USB DACs, etc.) connected to your system, you can select the desired output device from the "Select a device" dropdown in the Settings screen.  Tip: Certain devices with names starting with "hw" may produce garbled audio if the sample rates do not match.  In such cases, try selecting the "plughw" version of the same device available in the dropdown.  If you have PulseAudio or Pipewire installed, the "default" may be referring to PulseAudio/Pipewire, which usually handles most of the mismatch issues.
+- **Adding web radios:** To add web radios, go to the Radios option from the dropdown on the main toolbar and click on the "Add Radio" button.  Enter the name and streaming URL of the web radio station you want to add.  You can find web radio URLs at [radio-browser.info](https://www.radio-browser.info).
+- **Using DSP Effects:** By default, DSP effects such as equalizer are enabled with defaults. To adjust DSP effects, go to the Speaker icon on the main toolbar and adjust the settings.
+
+Please reer to the following screenshots for reference:
+- Edit Settings and Rescan menu options:
+![NPlay Rescan Library](images/rescan-library.jpg)
+- Adding music directories and selecting audio output device:
+![NPlay Add Music Directories](images/adding-music-library.jpg)
+
+
+## More Screenshots
 Screenshot of major components of NPlay web and desktop interface:
 ![NPlay Web Interface](images/nplay-screenshot.jpg)
 
