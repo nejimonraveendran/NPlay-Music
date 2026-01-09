@@ -73,9 +73,9 @@ NPlay is a remote-controllable lightweight music player and streamer designed fo
 
 Please reer to the following screenshots for reference:
 - Edit Settings and Rescan menu options:
-![NPlay Rescan Library](images/rescan-library.jpg)
+    ![NPlay Rescan Library](images/rescan-library.jpg)
 - Adding music directories and selecting audio output device:
-![NPlay Add Music Directories](images/adding-music-library.jpg)
+    ![NPlay Add Music Directories](images/adding-music-library.jpg)
 
 
 ## More Screenshots
