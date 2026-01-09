@@ -15,6 +15,10 @@
 
 NPlay is a remote-controllable lightweight music player and streamer designed for Raspberry Pi and Linux platforms with simplicity and ease of use in mind. It supports prominent audio formats and provides a user-friendly interface for managing and playing your music collection.  It also includes streaming capabilities, allowing you to play music from online sources such as webradios and Qobuz.
 
+While designing NPlay, focus was given to 2 key considerations:
+- You should not need a dedicated music operating system to run it (important when running on Raspberry Pi).
+- Installation and setup should be as simple as possible.
+
 ## Features
 - Supports audio formats WAV, FLAC, and MP3.
 - Supports 16-bit, 24-bit, and 32-bit audio files.
