@@ -2,6 +2,13 @@
 
 <img src="https://api.visitorbadge.io/api/visitors?path=nejimon.raveendran-nplay&countColor=%234a748a&style=flat"></img>
 
+![Angular](https://img.shields.io/badge/Angular-20-DD0031?logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-10-512BD4?logo=dotnet&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Real--Time-0A66C2?logo=websocket&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini-AI-4285F4?logo=google&logoColor=white)
+
+
 ![NPlay Logo](images/logo.png)
 
 NPlay is a remote-controllable lightweight music player and streamer designed for Raspberry Pi and Linux platforms with simplicity and ease of use in mind. It supports prominent audio formats and provides a user-friendly interface for managing and playing your music collection.  It also includes streaming capabilities, allowing you to play music from online sources such as webradios and Qobuz.
