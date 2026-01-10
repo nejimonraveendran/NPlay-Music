@@ -6,7 +6,6 @@
 ![Angular](https://img.shields.io/badge/Angular-20-DD0031?logo=angular&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-Real--Time-0A66C2?logo=websocket&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini-AI-Powered-4285F4?logo=google&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Supported-C51A4A?logo=raspberrypi&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-Linux-A81D33?logo=debian&logoColor=white)
